@@ -1,0 +1,48 @@
+.box {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    font-size: 1.4em;
+    color: black;
+}
+
+.box1 {
+    background-color: rgb(0, 255, 255);
+}
+
+.box2 {
+    background-color: rgb(255, 0, 255);
+}
+
+.box3 {
+    background-color: rgb(255, 255, 0);
+}
+
+.box4 {
+
+    background-color: cadetblue;
+}
+
+.box5 {
+    background-color: gainsboro;
+}
+
+.box6 {
+    background-color: goldenrod;
+}
+
+.box7 {
+    background-color: darkcyan;
+}
+
+.box8 {
+    background-color:#FF5733;
+}
+
+.box9 {
+    background-color: #FFC300;
+}
+
+.box10 {
+    background-color: #DAF7A6;
+}
