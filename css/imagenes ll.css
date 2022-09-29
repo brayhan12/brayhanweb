@@ -6,7 +6,8 @@
 
  
 .box{
-    float: left;
+
+  display:inline-block ;
     width: 370px;
     margin: 30px;
     vertical-align: top;
