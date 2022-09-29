@@ -1,10 +1,30 @@
-.img-100  {
-    width: 30%;
-    border: 8px solid rgb(2, 129, 247);
+
+.box{
+    display: inline-block;
+    width: 29%;
+    margin: 30px 1.5%;
+    vertical-align: top;
 }
+
+
+
+
+.img-100  {
+    width: 100%;
+    display: inline;  
+    border: 1px solid blue;
+}
+
 h1{
     text-align: center;
+    height: 100%;
 }
+
 h2{
     text-align: center;
+    height: 50%;
+}
+
+p{
+    text-align: justify;
 }
