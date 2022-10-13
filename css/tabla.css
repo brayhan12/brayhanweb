@@ -11,7 +11,7 @@ h1{
 th{
     border: 1px solid black;
     padding: 10px 12px;
-    background-color: rgb(250, 4, 4);
+    background-color: rgb(23, 211, 54);
     
 }
 
@@ -29,14 +29,40 @@ table{
 img{
     width: 115px;
 }
-.TABLA{
+
+
+
+.tabla2{
+    border-collapse: separate;
     display: flex;
     justify-content: center;
     align-items: center
-    
 } 
 
-td{
+.tam1{
+    background-color:rgb(128, 231, 238) ;
+    color: white;
+  
+}
+
+
+.tam3{
+    background-color: rgb(29, 161, 29);
     
-    
+}
+.tam4{
+background-color: blue;
+}
+.tam5{
+    background-color: orange;
+}
+.tam6{
+    background-color: blueviolet;
+}
+.col{
+    background-color:rgb(128, 231, 238) ;
+
+}
+.titan{
+    background-color: rgb(225, 245, 243);
 }
