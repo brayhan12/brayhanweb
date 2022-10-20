@@ -1,0 +1,30 @@
+label{
+    display: block;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+input[type="text"]{
+   margin-bottom: 20px;
+    padding: 6px;
+    font-size:1 1em;
+    width: 400px;
+    border: none;
+    border-bottom: 1px solid rgb(65, 60, 60);
+}
+input[type="text"] :focus {
+    outline: none;
+}
+.f{
+    text-align: center;
+    border-bottom: 0px l;
+}
+.e{
+   
+    border-bottom: 3px solid rgb(189, 14, 14);
+    text-decoration-color: white;
+}
