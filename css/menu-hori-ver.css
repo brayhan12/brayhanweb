@@ -6,7 +6,7 @@ header {
     width: 100%;
 }
 .menu-bar {
-    display: none;
+    
     width: 100%;
     margin-top: 100%;
 }
@@ -17,7 +17,7 @@ header {
 nav {
     background-color:white;
     width: 100%;
-    font-size: 1.1em;
+    font-size: 1.3em;
 
 }
 ul {
@@ -34,7 +34,7 @@ nav ul li:hover {
 }
 nav ul li  {
     margin-right: 0px;
-    margin-left: 20px;
+    margin-left: 0px;
 }
 nav ul  {
     position: relative;
@@ -43,7 +43,7 @@ nav ul  {
 }
 a {
     color: rgb(0, 0, 0);
-    padding: 5px;
+    padding: 0px;
     text-decoration: none;
     display: block;
    
@@ -65,7 +65,7 @@ nav ul li:hover .children {
 .h{
    color:white; 
    background-color: rgb(31, 28, 28);
-   margin-left: 30px;
+   margin: 3px;
    padding: 10px;
    border-radius: 5px;
    

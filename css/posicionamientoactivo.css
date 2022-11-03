@@ -1,0 +1,56 @@
+.caja{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border: 2px solid black;
+    
+}
+.caja2{
+width: 150px;
+height: 150px;
+background-color: darkblue ;
+position: relative;
+top: 100%;
+left: 30px;
+
+}
+.caja3{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: relative;
+    top: 100%;
+    left: 30px;
+
+}
+.caja4{
+    width: 150px;
+    height: 150px;
+    background-color:blue;
+    position: relative;
+    top: 100%;
+    left: 30px;
+
+}
+.caja2-1{
+    width: 150px;
+    height: 150px;
+    background-color:yellow;
+    position: relative;
+    top: 100%;
+    left: 150px;
+    
+}
+.caja3-1{
+    width: 150px;
+    height: 150px;
+    background-color:rgb(0, 255, 34);
+    position: relative;
+    top: 100%;
+    left: 150px;
+      
+}
+.boton-Menu{
+background-color: blue;
+width: 120px;
+}
