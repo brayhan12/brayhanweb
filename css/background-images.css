@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.ima{
+
+    background-image: url(../img/mountain-landscape-9hrsbtarle9oh4n5.jfif);
+    height: 580px;
+    width: 1349px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: #ffffff;
+}
+nav{
+    padding-top: 20px;
+    text-align: right;
+}
+nav li:hover > ul > li{
+    visibility: visible;
+    max-height: 500px;
+    overflow: visible;
+}
+nav li:hover{
+    background-color:transparent;
+    color: black;
+}
+.bay{
+
+    display: flex;
+    width: 100px;
+    height: 60px;
+  
+    text-align:center;
+   
+    
+    }
+li{
+    font-size: 1.5em;
+    margin-right: 30px;
+    list-style: none;
+    height: 30px;
+
+}
+.tex{
+text-align: center;
+}
